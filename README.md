@@ -1,11 +1,6 @@
 # RandomNumberGenerator
 A fun random number generator using speech recognition
 
-Dependencies:
-speech_recognition, to help with speech to text
-pyttsx3, to deal with text to speech
-random, to do the actual RNG
-
  Dependencies:
  * speech_recognition, to help with speech to text
  * pyttsx3, to deal with text to speech
